@@ -17,4 +17,5 @@
 - Đã upload ảnh chụp màn hình kết quả
 
 ### Minh họa
-![Ảnh kết quả]("Ảnh chụp màn hình 2026-01-08 104154.png")
+![Ảnh kết quả](./Ảnh%20chụp%20màn%20hình%202026-01-08%20104154.png)
+
