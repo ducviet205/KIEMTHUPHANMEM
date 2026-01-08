@@ -1,8 +1,8 @@
 # KIỂM THỬ PHẦN MỀM
 
 ## Thông tin sinh viên
-- Họ tên: ...
-- MSSV: ...
+- Họ tên: BÙI ĐỨC VIỆT
+- MSSV: BIT230447
 - Môn học: Kiểm thử phần mềm
 
 ## Bài thực hành tuần 1
