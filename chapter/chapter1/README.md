@@ -10,4 +10,4 @@
 - Đã upload ảnh chụp màn hình kết quả
 
 ### Minh họa
-![Ảnh kết quả](image/Screenshot%202026-01-08%20112610.png)
+![Ảnh kết quả](image/anh1.png)

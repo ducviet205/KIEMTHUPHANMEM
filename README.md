@@ -1,8 +1,8 @@
 # KIỂM THỬ PHẦN MỀM
 
 ## Thông tin sinh viên
-- Họ tên: Từ Việt Thái
-- MSSV: BIT230374
+- Họ tên: BÙI ĐỨC VIỆT
+- MSSV: BIT230447
 - Môn học: Kiểm thử phần mềm
 
 ---
